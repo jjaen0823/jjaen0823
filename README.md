@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=jjaen%20git&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=jjaen%20git&fontSize=60)
 <br/>
 <br/>
 
