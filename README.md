@@ -35,11 +35,14 @@ Here are some ideas to get you started:
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)
  
-  🐹Me🥝
+🐹Me🥝
+ 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](poungki0823@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjae_n__/)
+ 
+ 
  </div>
 
 
-
+<br>
 [![jjaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaen0823&show_icons=true&theme=vision-friendly-dark)](https://github.com/jjaen0823/github-readme-stats)
