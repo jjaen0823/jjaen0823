@@ -35,6 +35,12 @@ Here are some ideas to get you started:
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)
  </div>
+ 
+ <div align=center>
+ 🐹Me🥝
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](poungki0823@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjae_n__/)
+ </div>
 
 
 
