@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
+<div align=center>
 
-
-<center> 🛠 Tech Stack 🛠</center>
+ 🛠 Tech Stack 🛠
 
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](github.com/jjaen0823/TODO-List)
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)
 
 
-
+ </div>
 
 [![jjaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaen0823&show_icons=true&theme=vision-friendly-dark)](https://github.com/jjaen0823/github-readme-stats)
