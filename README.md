@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
-[![jjaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaen0823&show_icons=true&theme=vision-friendly-dark)](https://github.com/jjaen0823/github-readme-stats)
-
 
 ### Tech Stack
-[![JS](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/jjaen0823/TODO-List)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/jjaen0823/TODO-List)
+
+
+
+
+[![jjaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaen0823&show_icons=true&theme=vision-friendly-dark)](https://github.com/jjaen0823/github-readme-stats)
