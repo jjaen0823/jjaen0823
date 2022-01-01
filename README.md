@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/jjaen0823/TODO-List)
+[![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=black)](github.com/jjaen0823/TODO-List)
 
 
 
