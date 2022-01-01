@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 
 
-<center>### 🛠 Tech Stack 🛠
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jjaen0823/TODO-List)
+<center>### 🛠 Tech Stack 🛠</center>
+<center>[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jjaen0823/TODO-List)</center>
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/jjaen0823/TODO-List)
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)
+<center>[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/jjaen0823/TODO-List)</center>
+<center>[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)</center>
 
 
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)
-</center>
+
 
 
 
