@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### Tech Stack
+<center>### 🛠 Tech Stack 🛠
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=black)](github.com/jjaen0823/TODO-List)
@@ -29,9 +29,8 @@ Here are some ideas to get you started:
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)
 
 
-
-<br/>
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)
+</center>
 
 
 
