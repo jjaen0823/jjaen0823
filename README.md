@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 
 ### Tech Stack
-[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)](github.com/jjaen0823/TODO-List)
+[![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=white)](github.com/jjaen0823/TODO-List)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/jjaen0823/TODO-List)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)](github.com/jjaen0823/TODO-List)
 
 
 
