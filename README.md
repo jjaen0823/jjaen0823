@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)  
  
- 
+<br/>
 🐹 Me 🥝
  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](poungki0823@gmail.com)
@@ -43,6 +43,8 @@ Here are some ideas to get you started:
  
 </div>
 
+<br/>
+<br/>
 <br/>
 
 [![jjaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaen0823&show_icons=true&theme=vision-friendly-dark)](https://github.com/jjaen0823/github-readme-stats)
