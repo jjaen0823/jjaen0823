@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](github.com/jjaen0823/TODO-List)  
 
  
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)  
+<!-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)   -->
  
 <br/>
  
