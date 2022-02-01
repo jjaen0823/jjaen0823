@@ -40,9 +40,9 @@ Here are some ideas to get you started:
  
 🐹 Me 🥝  
  
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://jjaen.notion.site/Jaeeun-Choi-c35b8ec070644325949cf14ea4b4a1a0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:poungki0823@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjae_n__/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://jjaen.notion.site/Jaeeun-Choi-c35b8ec070644325949cf14ea4b4a1a0)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjae_n__/) -->
  
 </div>
 
