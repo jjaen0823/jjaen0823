@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=blue)](github.com/jjaen0823/TODO-List)
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)
+ 
+
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)](github.com/jjaen0823/TODO-List)  
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=#003545)](github.com/jjaen0823/TODO-List)  
 
  
 <!-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)   -->
