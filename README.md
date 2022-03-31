@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List)
  
 
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/jjaen0823/TODO-List)  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/jjaen0823/TODO-List)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](github.com/jjaen0823/TODO-List)  
 
  
