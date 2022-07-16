@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=black)](github.com/jjaen0823/TODO-List)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=black)](github.com/jjaen0823/TODO-List)
+[![Java](https://img.shields.io/badge/Java-007386?style=flat-square&logo=Java&logoColor=white)](github.com/jjaen0823/TODO-List)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)](github.com/jjaen0823/TODO-List)
  
 <!-- [![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)](github.com/jjaen0823/TODO-List) -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](github.com/jjaen0823/TODO-List)
