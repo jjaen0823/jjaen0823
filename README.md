@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/jjaen0823/TODO-List)
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/jjaen0823/TODO-List)
-[![Apache Druid](https://img.shields.io/badge/ApacheDruid-29F1FB?style=flat-square&logo=ApacheDruid&logoColor=white)](github.com/jjaen0823/TODO-List)  
+[![Apache Druid](https://img.shields.io/badge/ApacheDruid-29F1FB?style=flat-square&logo=Apache Druid&logoColor=black)](github.com/jjaen0823/TODO-List)  
  
 <!-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)   -->
  
