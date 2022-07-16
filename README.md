@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=jjaen%20git&fontSize=60)
-<br/>
-<br/>
+<br>
+<br>
 
 <div align=center>
 
@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/jjaen0823/TODO-List)
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](github.com/jjaen0823/TODO-List)
-[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white)](github.com/jjaen0823/TODO-List)  
-
+[![Apache Druid](https://img.shields.io/badge/ApacheDruid-29F1FB?style=flat-square&logo=ApacheDruid&logoColor=white)](github.com/jjaen0823/TODO-List)  
  
 <!-- [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](github.com/jjaen0823/TODO-List)   -->
  
@@ -45,13 +44,11 @@ Here are some ideas to get you started:
 🐹 Me 🥝  
  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:poungki0823@gmail.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://jjaen.notion.site/Jaeeun-Choi-c35b8ec070644325949cf14ea4b4a1a0)
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jjae_n__/) -->
  
 </div>
 
-<br/>
-<br/>
+<br>
+<br>
 
 <div align=center>
 
