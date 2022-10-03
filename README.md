@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)](github.com/jjaen0823/TODO-List)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black)](github.com/jjaen0823/TODO-List)  
- 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)](github.com/jjaen0823/TODO-List)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white)](github.com/jjaen0823/TODO-List)
 
