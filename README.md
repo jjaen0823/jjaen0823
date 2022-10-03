@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)](github.com/jjaen0823/TODO-List) -->
  
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)](github.com/jjaen0823/TODO-List)
-[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)](github.com/jjaen0823/TODO-List)  
+[![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)](github.com/jjaen0823/TODO-List)
 [![Junit5](https://img.shields.io/badge/Junit5-25A162?style=flat-square&logo=Junit5&logoColor=white)](github.com/jjaen0823/TODO-List)  
 
 
